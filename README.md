@@ -101,6 +101,8 @@ DemoQA_Login_Automation/
 
 ⚙️ How The Framework Works
 
+---
+
  1️⃣ Browser Setup
 
 `conftest.py` handles browser initialization and teardown using PyTest fixtures.
