@@ -186,7 +186,7 @@ Combining multiple framework concepts into one project forms a Hybrid Automation
 Clone The Repository
 
 ```bash
-git clone https://github.com/your-username/demoqa-login-hybrid-framework.git
+git clone https://github.com/ushaun01/demoqa-login-hybrid-framework.git
 ```
 
 ---
