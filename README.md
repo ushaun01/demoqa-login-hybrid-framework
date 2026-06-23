@@ -1,5 +1,4 @@
 
-
 📘 Project Overview
 
 This project automates the Login functionality of DemoQA using a Hybrid Test Automation Framework.
